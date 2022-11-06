@@ -1,0 +1,14 @@
+h2{
+	color: red;
+	font-family: Verdana, Trebuchet MS;
+}
+p{
+	color: blue;
+	font-family: Courier New;
+}
+strong{
+	color: yellowgreen;
+}
+body{
+	background-color: lightblue;
+}
